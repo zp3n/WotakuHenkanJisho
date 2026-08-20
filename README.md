@@ -20,7 +20,14 @@ Vtuber、アニメキャラ、その他オタクコンテンツを自由自在�
 - Riot Music
 - Jig.jp
 - LaRa (HIMEHINA)
+- ゆにれいど！
+- ENILIS
 - 個人勢若干名
+
+## 検討中
+- V4Mirai
+- MUGEN LIVE
+- AStars Production
 
 # このリポジトリのコンテンツの利用について  
 このリポジトリのコンテンツの利用は商用・非商用問わず基本的には無償かつ自由です。  
