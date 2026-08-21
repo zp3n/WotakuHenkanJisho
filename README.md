@@ -1,6 +1,6 @@
 # ２次元用語変換辞書
 Vtuber、アニメキャラ、その他オタクコンテンツを自由自在に変換できるようにする完全オープンソースの日本語入力変換辞書。
-## 現在進捗 Vtuber名前関連 842 words
+## 現在進捗 Vtuber名前関連 920 words
 - ホロライブ
   - JP
   - EN
@@ -30,6 +30,7 @@ Vtuber、アニメキャラ、その他オタクコンテンツを自由自在�
 - REALITY Studio
   - First Stage Production
   - すぺしゃりて
+- ReAcT
 - 個人勢若干名
 
 ## 検討中
