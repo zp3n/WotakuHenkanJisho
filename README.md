@@ -1,43 +1,27 @@
 # ２次元用語変換辞書
 Vtuber、アニメキャラ、その他オタクコンテンツを自由自在に変換できるようにする完全オープンソースの日本語入力変換辞書。
-## 現在進捗 Vtuber名前関連 934 words
+## 現在進捗 Vtuber名前関連 1010 words
 - ホロライブ
-  - JP
-  - EN
-  - ID
-  - Staff/AN
 - ホロスターズ
-  - JP
-  - EN
 - にじさんじ
-  - JP
-  - EN
-  - ID
 - ぶいすぽっ！
-  - JP
-  - EN
 - NeoPorte
 - Riot Music
 - Jig.jp
 - LaRa (HIMEHINA)
 - ゆにれいど！
-- ENILIS
 - 774 inc.
-- .LIVE
 - のりプロ
 - あおぎり高校
 - ゆうぎり高校
-- REALITY Studio
-  - First Stage Production
-  - すぺしゃりて
-- ReAcT
+- すぺしゃりて
 - 神椿
 - REJECT
-- VOMS
-- 個人勢若干名
+- 個人勢若干名　など...
 
 ## 検討中
 - V4Mirai
+- OWOZU
 - MUGEN LIVE
 - AStars Production
 - globie
