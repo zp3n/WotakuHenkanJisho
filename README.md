@@ -30,7 +30,6 @@ Vtuber、アニメキャラ、その他オタクコンテンツを自由自在�
 - REALITY Studio
   - First Stage Production
   - すぺしゃりて
-  - RK Music
 - 個人勢若干名
 
 ## 検討中
@@ -39,6 +38,7 @@ Vtuber、アニメキャラ、その他オタクコンテンツを自由自在�
 - AStars Production
 - globie
 - RIONECTION
+- RK Music
 
 # このリポジトリのコンテンツの利用について  
 このリポジトリのコンテンツの利用は商用・非商用問わず基本的には無償かつ自由です。  
